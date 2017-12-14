@@ -1,0 +1,42 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "crud app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinko43/crud-app.git"
+  },
+  "author": "Justin Ko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinko43/crud-app/issues"
+  },
+  "homepage": "https://github.com/justinko43/crud-app#readme",
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1",
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "body-parser": "^1.18.2",
+    "colors": "^1.1.2",
+    "css-loader": "^0.28.7",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "style-loader": "^0.19.1"
+  }
+}
